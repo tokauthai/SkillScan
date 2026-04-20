@@ -1,7 +1,7 @@
 {
   "name": "SkillScan",
   "slug": "SkillScan",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "OpenClaw Skill security scanner — automatically detect security risks in installed and new skill packages",
   "author": "tokauth",
   "homepage": "https://skillscan.tokauth.com",
