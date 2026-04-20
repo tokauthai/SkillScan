@@ -45,3 +45,7 @@ SkillScan 是 Skill 的安全门禁系统。它能自动检测已安装及新添
 ## License
 
 MIT
+
+## Download History
+
+[![Download History](https://skill-history.com/chart/tokauthai/skillscan.svg)](https://skill-history.com/tokauthai/skillscan)
